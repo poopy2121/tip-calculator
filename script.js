@@ -1,0 +1,1 @@
+const calculatebtn = document.getElementById("calculate")
