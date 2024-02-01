@@ -9,8 +9,9 @@ calculatebtn.addEventListener('click', function calculation() {
     let formula = (tipamount*(percentage/100))
 
 
+    
 
-    result.innerText = ("das sind " + formula + "$ TRINKGELD DU HUND")
+    result.innerText = ("das sind " + formula + "$ TRINKGELD mien jung")
 
     
 })
